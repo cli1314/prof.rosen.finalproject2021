@@ -35,5 +35,5 @@ TODO: Make the pig "eat" the sushi and make a long snake. Make it feel more game
 #### What problems, if any, have you encountered?
 
 TODO: Perhaps learning the lua program code. When I read the wiki, it
-      seem easy to learn but still hard to apply it. Prehaps give me a few years. :(
+      seem easy to learn but still hard to apply it even with Youtube help. Perhaps give me a few years. :(
       All I learn and know now are things I did with the project currently.
